@@ -1,1 +1,2 @@
+# .gitignore file is used to ignore use-less files in our project
 /frontend/node_modules
